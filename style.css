@@ -1,0 +1,25 @@
+/*Allgemein CSS*/
+* {
+    font-family: Arial, Helvetica, sans-serif; 
+    margin:auto;
+    padding: auto;
+}
+
+/*CSS Navigations Leiste alle Seiten*/
+nav {
+    background-color: rgb(0, 187, 255);
+}
+
+/*CSS für Karten von tierseite.html*/
+.card{
+    width: 13rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.card-text {
+    font-size: 9pt;
+}
+.card-title{
+    font-size: 14pt;
+}
+
