@@ -30,12 +30,12 @@ p {
     color:black;
 }
 
-
+/*Footer Styling*/
 #footer-text {
     background-color: rgb(0, 187, 255);
 }
 
-
+/*Divider Styling*/
 .b-example-divider {
     height: 3rem;
     border: solid white;
