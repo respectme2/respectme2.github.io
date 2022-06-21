@@ -36,7 +36,7 @@ p {
 }
 
 /*Divider Styling*/
-.b-example-divider {
+.divider {
     height: 3rem;
     border: solid white;
     border-width: 1px 0;
