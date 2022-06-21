@@ -41,3 +41,15 @@ p {
     border: solid white;
     border-width: 1px 0;
 }
+
+.divider-a {
+    height:1.5rem;
+    border: solid white;
+    border-width: 1px 0;
+}
+
+.divider-b {
+    height: 4rem;
+    border: solid white;
+    border-width: 1px 0;
+}
