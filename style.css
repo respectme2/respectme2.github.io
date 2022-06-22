@@ -22,6 +22,10 @@ nav {
 .card-title{
     font-size: 14pt;
 }
+.card-img-top {
+    width: 204px;
+    height: 150px;
+}
 
 
 /*Styling von Paragraphen*/
