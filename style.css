@@ -54,7 +54,15 @@ p {
     border-width: 1px 0;
 }
 
+/*Styling für die Tier Bilder*/
 #tier {
     width: 500px;
     height: 300px;
+}
+
+/*Styling H2 Tag*/
+
+h2 {
+    color:darkblue;
+    font-size: 30pt;
 }
