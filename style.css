@@ -91,3 +91,14 @@ h2 {
     margin-left: 100px;
     margin-right: 100px;
 }
+
+iframe {
+    width:600px ;
+    height:450px;
+    border:0;
+    margin-left: 350px;
+}
+
+span {
+    justify-content: center;
+}
