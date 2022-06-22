@@ -53,3 +53,8 @@ p {
     border: solid white;
     border-width: 1px 0;
 }
+
+#tier {
+    width: 500px;
+    height: 300px;
+}
