@@ -86,3 +86,8 @@ h2 {
     font:bold;
     font-size: 28pt;
 }
+
+#tiertext {
+    margin-left: 100px;
+    margin-right: 100px;
+}
