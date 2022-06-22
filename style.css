@@ -87,11 +87,12 @@ h2 {
     font-size: 28pt;
 }
 
+/*Styling für Text*/
 #tiertext {
     margin-left: 100px;
     margin-right: 100px;
 }
-
+/*Styling für Google Maps Einbindung*/
 iframe {
     width:600px ;
     height:450px;
@@ -99,6 +100,7 @@ iframe {
     margin-left: 350px;
 }
 
-span {
-    justify-content: center;
+/*Styling für verschachtelte Liste*/
+li {
+    font-size:13pt;
 }
