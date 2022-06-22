@@ -58,10 +58,16 @@ p {
     border-width: 1px 0;
 }
 
-/*Styling für die Tier Bilder*/
+/*Styling für Bilder*/
 #tier {
     width: 500px;
     height: 300px;
+}
+
+#titelbild {
+width: 400px;
+height: 300px;
+border: solid black 6px;
 }
 
 /*Styling H2 Tag*/
