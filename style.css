@@ -104,3 +104,14 @@ iframe {
 li {
     font-size:13pt;
 }
+
+/*Styling für Tabelle*/
+th {
+    font-size: 14pt;
+}
+td {
+    font-size: 12pt;
+}
+table {
+    border: solid black;
+}
