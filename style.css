@@ -72,6 +72,7 @@ p {
 #tier {
     width: 500px;
     height: 300px;
+    display: block;
 }
 
 #titelbild {
@@ -94,10 +95,10 @@ h2 {
 }
 /*Styling für Google Maps Einbindung*/
 iframe {
-    width:600px ;
+    width:600px;
     height:450px;
     border:0;
-    margin-left: 350px;
+    display:block
 }
 
 /*Styling für verschachtelte Liste*/
